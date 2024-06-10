@@ -1,4 +1,4 @@
-#freecodecamp
+#pracice session from freecodecamp
 text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'python'
 
