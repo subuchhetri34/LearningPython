@@ -1,4 +1,4 @@
-#Learn how to work with numbers and string by implementing th Luhn Algorithm from freecodecamp
+#Learn how to work with numbers and string by implementing the Luhn Algorithm from freecodecamp
 
 def verify_card_number(card_number):
     sum_of_odd_digits = 0
